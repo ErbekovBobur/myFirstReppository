@@ -11,3 +11,11 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
+
+// --- 7 ------------------------------------------------------------------
+
+// function amountWord(str) {
+//     return str.split(' ').length;
+// }
+
+// console.log(amountWord(one));
