@@ -11,3 +11,5 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
+
+console.log(TAsk 11);
