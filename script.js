@@ -26,3 +26,5 @@
 //     return 'Не спам';
 // }
 // console.log(checkSpam(one));
+
+
