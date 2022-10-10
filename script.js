@@ -11,3 +11,17 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
+
+// --- 9 --------------------------------------------------------------------
+
+
+// function averageLongWord(str) {
+//     let value = str.split(' ');
+//     let result = 0;
+//     for(let key in value ) {
+//         result += value[key].length;
+//     }
+//     return Math.floor(result / value.length);
+// }
+
+// console.log(averageLongWord(one));
