@@ -11,3 +11,19 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
+
+// --- 10 -------------------------------------------------------------------
+
+// let string = 'новый Узбекистан н';
+
+// function searchIndex(str, value) {
+//     let result = '';
+//     let count = 0;
+//     str.split('').forEach((element, index) => {
+//         if(element === value) {
+//             result = result + '[' + index + ']'; count++;
+//             }
+//         });
+// return result + '  -  ' + count;
+// }
+// console.log(searchIndex(string, 'н'));
