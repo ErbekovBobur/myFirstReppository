@@ -11,3 +11,18 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
+
+// --- 8 ------------------------------------------------------------------
+
+// function findLongWord(str) {
+//     let value = str.split(' ');
+//     console.log(value);
+//     let result = '';
+//     for(let key in value ) {
+//         console.log(value[key]);
+//         if(result.length < value[key].length) result = value[key];
+//     }
+//     return result;
+// }
+
+// console.log(findLongWord(one));
