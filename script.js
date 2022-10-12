@@ -11,17 +11,4 @@
 //     return 0;
 // }
 // console.log(compareStr(one, two));
-
-
-//--2-------------------------------------------------------------------
-
-
-// let str = 'hello, my friend';
-
-// function upperFirstSymbol(srting) {
-//     return str[0].toUpperCase() + str.slice(1);
-// }
-
-// console.log(upperFirstSymbol(str));
-
-
+// console.log(TAsk00)
